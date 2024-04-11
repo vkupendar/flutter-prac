@@ -1,0 +1,23 @@
+[
+    {
+        "name":"pawan kumar",
+        "age":"22",
+        "height":"172"
+    },
+    {
+            "name":"kupendar",
+            "age":"22",
+            "height":"180"
+        },
+        {
+                "name":"ram",
+                "age":"30",
+                "height":"155"
+            },
+            {
+                    "name":"mahi",
+                    "age":"25",
+                    "height":"162"
+                },
+
+]
